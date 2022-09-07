@@ -1,4 +1,4 @@
-<h1 align="center">Odisi Ebi (Oracle Codes)</h1>
+<h1 align="center">Odisi Ebiyeladou (Oracle Codes)</h1>
 <h2 align="center"><b>I’m a Full Stack Developer</b></h2>
 <ul>
   <li>🔭 I write articles on learning tech.</li>
