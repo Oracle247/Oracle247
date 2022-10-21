@@ -4,7 +4,7 @@
   <li>🔭 I write articles on learning tech.</li>
   <li>🌱 I’m currently learning Flutter on the side</li>
   <li>🎟 I’m interested in Web3 and Cybersecurity</li>
-  <li>🌱 I’m currently into Graphic development with Opengl/C++</li>
+  <li>🌱 I’m currently into Web Developement with Mongodb, Express, React/Vue/Next Nodejs</li>
   <li>💬 Ask me about anything tech related especially on JavaScript and C++</li>
   <li>
     📫 How to reach me: 
