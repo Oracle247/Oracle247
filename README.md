@@ -1,7 +1,7 @@
 <h1 align="center">Odisi Ebiyeladou (Oracle Codes)</h1>
 <h2 align="center"><b>I’m a Full Stack Developer</b></h2>
 <ul>
-  <li>🔭 I write articles onver  tech.</li>
+  <li>🔭 I write articles on tech.</li>
   <li>🌱 I’m currently learning Flutter on the side</li>
   <li>🎟 I’m interested in Web3 and Cybersecurity</li>
   <li>🌱 I’m currently into Web Developement with Mongodb, Express, React/Vue/Next Nodejs</li>
